@@ -1,0 +1,23 @@
+{
+  "name": "file-manager-node-js",
+  "version": "1.0.0",
+  "description": "file manager for console",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dezzorden/file-manager-node-js.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "dezzorden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dezzorden/file-manager-node-js/issues"
+  },
+  "homepage": "https://github.com/dezzorden/file-manager-node-js#readme"
+
+}
